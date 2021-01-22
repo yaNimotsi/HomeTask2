@@ -30,7 +30,7 @@ namespace HomeTaskLesson2._5
                     break;
             }
 
-            if (winterFlag == true && averegeVal > 0)
+            if (winterFlag && averegeVal > 0)
                 Console.WriteLine("Дождливая зима");
         }
     }
