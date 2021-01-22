@@ -7,12 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeTaskLesson2.1", "HomeTa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeTaskLesson2.2", "HomeTaskLesson2.2\HomeTaskLesson2.2.csproj", "{EF38B586-323F-4408-8891-A0D10B3DBD84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTaslLesson2.3", "HomeTaslLesson2.3\HomeTaslLesson2.3.csproj", "{36F27450-8A9A-4A1E-84CD-3DBD4DB7245C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeTaslLesson2.3", "HomeTaslLesson2.3\HomeTaslLesson2.3.csproj", "{36F27450-8A9A-4A1E-84CD-3DBD4DB7245C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTaskLesson2.4", "HomeTaskLesson2.4\HomeTaskLesson2.4.csproj", "{D36CB91F-B899-448E-A6ED-1926CDBBFBD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeTaskLesson2.4", "HomeTaskLesson2.4\HomeTaskLesson2.4.csproj", "{D36CB91F-B899-448E-A6ED-1926CDBBFBD6}"
 	ProjectSection(ProjectDependencies) = postProject
 		{74235C9C-18AC-4B55-8D4D-47A5B65623D7} = {74235C9C-18AC-4B55-8D4D-47A5B65623D7}
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTaskLesson2.5", "HomeTaskLesson2.5\HomeTaskLesson2.5.csproj", "{B6794545-2D67-4526-9F4F-1427FBA25D1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +38,10 @@ Global
 		{D36CB91F-B899-448E-A6ED-1926CDBBFBD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D36CB91F-B899-448E-A6ED-1926CDBBFBD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D36CB91F-B899-448E-A6ED-1926CDBBFBD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6794545-2D67-4526-9F4F-1427FBA25D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6794545-2D67-4526-9F4F-1427FBA25D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6794545-2D67-4526-9F4F-1427FBA25D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6794545-2D67-4526-9F4F-1427FBA25D1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
